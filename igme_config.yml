@@ -1,0 +1,13 @@
+series:
+title: Representation of Numbers
+author:
+  name: Andrew Litfin
+  email:
+  github: astrodude80
+description: This example explains how computers internally represent integers and foating point numbers.
+language: C++
+tags:
+  - Core
+extra_resources:
+connections:
+
