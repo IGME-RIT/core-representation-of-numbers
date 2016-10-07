@@ -26,7 +26,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 // See Integers.cpp to see how a computer deals with integers, and FloatingPoint.cpp for floats.
 // We assume familiarity with the idea of a base system and with scientific notation.
 
-#include "ClassDeclarations.h"
+#include "../header/ClassDeclarations.h"
 
 int main() {
 	Integers::IntegersExample();

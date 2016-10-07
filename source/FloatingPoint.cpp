@@ -19,7 +19,7 @@ You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 */
 
-#include "ClassDeclarations.h"
+#include "../header/ClassDeclarations.h"
 
 // Create a union of a floating point number and an integer.
 // In this way we can set the bits of a floating point number manually.
